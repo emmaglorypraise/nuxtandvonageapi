@@ -1,0 +1,21 @@
+{
+  "name": "chattie",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "moment": "^2.29.1",
+    "nexmo-client": "^8.0.3",
+    "nuxt": "^2.15.6"
+  },
+  "version": "1.0.0",
+  "description": "A chat app built with nuxt and vonage messaging api",
+  "main": "nuxt.config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
